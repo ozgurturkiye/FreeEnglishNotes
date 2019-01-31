@@ -1,47 +1,49 @@
-**************
-Python'a Giriş
-**************
+*********************
+Conditional sentences
+*********************
 
-Python Nedir?
-=============
+What is conditional sentences?
+==============================
 
-Python popüler bir programlama dilidir ve 1991 yılında “Guido van Rossum” tarafından geliştirilmiştir.
+We use conditional sentences to say one thing depends on another.
 
-Ne için kullanılır:
+We have 4 type of conditions:
 
-* sunucu taraflı web geliştirme
-* yazılım geliştirme
-* matematik
-* sistem betikleri yazma
+* Type 0
+* Type 1
+* Type 2
+* Type 3
 
-Python neler yapabilir?
+Type 0
 =======================
 
-* Python, web uygulamaları oluşturmak için bir sunucuda kullanılabilir.
-* Python, iş akışları oluşturmak için uygulamaların yanında kullanılabilir.
-* Python veritabanı sistemlerine bağlanabilir. Ayrıca dosyaları okuyabilir ve değiştirebilir.
-* Python büyük verileri işlemek ve karmaşık matematik yapmak için kullanılabilir.
-* Python hızlı prototipleme veya hazır ürün geliştirme için kullanılabilir.
+Uses: Facts which are generally true or scientific facts.
 
-Peki Neden Python?
-==================
-
-* Python farklı platformlarda çalışır (Windows, Mac, Linux, Raspberry Pi, vb.).
-* Python, İngilizce'ye benzer basit bir söz dizimine sahiptir.
-* Python, geliştiricilerin, diğer programlama dillerinden daha kısa programlar yazmasına olanak veren bir söz dizimine sahiptir.
-* Python, bir interpreter(yorumlayıcı) sistemiyle çalışır, yani kod yazıldığı zaman yürütülebilir. Bu, prototip oluşturmanın çok hızlı olabileceği anlamına gelir.
-* Python kodları prosedürel, nesne yönelimli veya fonksiyonel bir şekilde yazılabilir.
-
-Ek Bilgiler
-============
-
-* Python'un en yeni ve ana sürümü, bu derste kullanacağımız Python 3'tür. Bununla birlikte, Python 2 kullanılmaya devam etse bile geçerli bir sebebiniz yoksa yeni sürümü kullanın.
-* Buradaki anlatımlarda Python basit bir metin editöründe yazılacaktır. Python'u, daha gelişmiş araçlar kullanarak yazmak isterseniz Thonny, Pycharm, Netbeans veya Eclipse gibi Entegre Geliştirme Ortamları kullanarak da yazmak mümkündür.
+    +------------+------------+-------------------------------------+
+    | type | if-clause        | main clause                         |
+    +============+============+=====================================+
+    | 0    | Simple Present   | Simple Present                      |
+    +------------+------------+-------------------------------------+
 
 
-Python söz diziminin diğer programlama dilleriyle karşılaştırılması
-===================================================================
+Type 1
+======
 
-* Python’ın tasarımında okunabilirlik ön plandadır ve matematikten etkilenen İngilizce diliyle bazı benzerliklere sahiptir.
-* Python, genellikle noktalı virgül veya parantez kullanan diğer programlama dillerinin aksine, bir komutu tamamlamak için yeni satırlar kullanır.
-* Python, kapsamı tanımlamak için girintiler kullanır; Tıpki döngüler, fonksiyonlar ve sınıfların kapsamı gibi. Diğer programlama dilleri genellikle bu amaç için süslü parantezler kullanır.
+Uses: A possible stuation in the future.
+
+    +------------+------------+-------------------------------------+
+    | type | if-clause        | main clause                         |
+    +============+============+=====================================+
+    | I    | Simple Present   | will-future or (Modal + infinitive) |
+    +------------+------------+-------------------------------------+
+
+
+Type 2
+======
+
+* 2222222222
+
+Type 3
+======
+
+* 333333 .
