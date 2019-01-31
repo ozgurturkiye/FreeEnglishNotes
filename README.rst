@@ -34,7 +34,7 @@ Conditional sentences(If clause)
     | 0    | Simple Present   | Simple Present                      |
     +------------+------------+-------------------------------------+
     | I    | Simple Present   | will-future or (Modal + infinitive) |
-    +------------+------------+-------------------------------------+    
+    +------------+------------+-------------------------------------+
     | II   | Simple Present   | would + infinitive *                |
     +------------+------------+-------------------------------------+
     | III  | Simple Present   | would + have + past participle *    |
