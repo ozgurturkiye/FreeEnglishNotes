@@ -1,41 +1,52 @@
-$project
-========
+Welcome to Free English Notes documentation!
+============================================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+The purpose of this project is to create a simple, useful and understandable resource for English grammar.
 
-Look how easy it is to use:
+Free for use, free to improve. If you’d like to contribute, fork me on GitHub!
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+To read the documentation: https://freeenglishnotes.readthedocs.io
 
-Features
---------
+Please be careful!
+-------------
 
-- Be awesome
-- Make things faster
+- There may be grammar mistake.
+- Pronunciation information here may be incorrect.
+- For now this place is just a learning area.
 
-Installation
-------------
+Make contribution
+-----------------
 
-Install $project by running:
+- Pull request: https://github.com/ozgurturkiye/FreeEnglishNotes/pulls
+- Source Code: https://github.com/ozgurturkiye/FreeEnglishNotes
 
-    install project
+Example of a topic
+------------------
 
-Contribute
-----------
+Conditional sentences(If clause)
+  Simple definition about topic.
+  
+  Type table:
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+    +------------+------------+-------------------------------------+
+    | type | if-clause        | main clause                         |
+    +============+============+=====================================+
+    | 0    | Simple Present   | Simple Present                      |
+    +------------+------------+-------------------------------------+
+    | I    | Simple Present   | will-future or (Modal + infinitive) |
+    +------------+------------+-------------------------------------+    
+    | II   | Simple Present   | would + infinitive *                |
+    +------------+------------+-------------------------------------+
+    | III  | Simple Present   | would + have + past participle *    |
+    +------------+------------+-------------------------------------+
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+You can send email to me: ozgurturkiye@gmail.com
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the GPL license.
