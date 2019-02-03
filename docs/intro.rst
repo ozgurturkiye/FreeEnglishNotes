@@ -1,49 +1,66 @@
-*********************
 Conditional sentences
-*********************
+=====================
 
 What is conditional sentences?
-==============================
+------------------------------
 
 We use conditional sentences to say one thing depends on another.
 
 We have 4 type of conditions:
 
-* Type 0
-* Type 1
-* Type 2
-* Type 3
+* Type 0: Facts which are generally true or scientific facts.
+* Type 1: condition possible to fulfill
+* Type 2: condition in theory possible to fulfill
+* Type 3: condition not possible to fulfill (too late)
 
 Type 0
-=======================
+------
 
-Uses: Facts which are generally true or scientific facts.
+Facts which are generally true or **scientific facts**.
 
-    +------------+----------------+-----------------+
-    | type       | if-clause      | main clause     |
-    +============+================+=================+
-    | 0          | Simple Present | Simple Present  |
-    +------------+----------------+-----------------+
-
+    +----------------+----------------+
+    | if-clause      | main clause    |
+    +================+================+
+    | Simple Present | Simple Present |
+    +----------------+----------------+
+* If you freeze water, it turns to ice.
+* It turns to ice if you freeze water.
 
 Type 1
-======
+------
 
-Uses: A possible stuation in the future.
+A **possible** stuation in the future.
 
-    +------------+----------------+-------------------------------------+
-    | type       | if-clause      | main clause                         |
-    +============+================+=====================================+
-    | I          | Simple Present | will-future or (Modal + infinitive) |
-    +------------+----------------+-------------------------------------+
-
+    +----------------+-------------------------------------+
+    | if-clause      | main clause                         |
+    +================+=====================================+
+    | Simple Present | will-future or (Modal + infinitive) |
+    +----------------+-------------------------------------+
+* If I study, I will pass the exam.
+* I will pass the exam if I study.
 
 Type 2
-======
+------
 
-* 2222222222
+It is **theoretically possible** to fulfil a condition which is given in the if-clause.
+
+    +----------------+----------------------+
+    | if-clause      | main clause          |
+    +================+======================+
+    | Simple Past    | would + infinitive * |
+    +----------------+----------------------+
+* If I studied, I would pass the exams.
+* I would pass the exams if I studied.
 
 Type 3
-======
+------
 
-* 333333 .
+It is **impossible** to fulfil a condition which is given in the if-clause.
+
+    +----------------+----------------------------------+
+    | if-clause      | main clause                      |
+    +================+==================================+
+    | Simple Present | would + have + past participle * |
+    +----------------+----------------------------------+
+* If I had studied, I would have passed the exams.
+* I would have passed the exams if I had studied.
