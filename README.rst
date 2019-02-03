@@ -1,9 +1,9 @@
 Welcome to Free English Notes documentation!
 ============================================
 
-The purpose of this project is to create a simple, useful and understandable resource for English grammar.
+The purpose of this project is to create a simple, useful and understandable resource for English learners.
 
-Free for use, free to improve. If you’d like to contribute, fork me on GitHub!
+Free for use, free for improve English skills. If you’d like to contribute, fork me on GitHub!
 
 To read the documentation: https://freeenglishnotes.readthedocs.io
 
@@ -35,9 +35,9 @@ Conditional sentences(If clause)
   +------+------------------+-------------------------------------+
   | I    | Simple Present   | will-future or (Modal + infinitive) |
   +------+------------------+-------------------------------------+
-  | II   | Simple Present   | would + infinitive *                |
+  | II   | Simple Past      | would + infinitive *                |
   +------+------------------+-------------------------------------+
-  | III  | Simple Present   | would + have + past participle *    |
+  | III  | Past Perfect     | would + have + past participle *    |
   +------+------------------+-------------------------------------+
 
 Support
