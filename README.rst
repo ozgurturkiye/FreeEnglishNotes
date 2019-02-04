@@ -8,7 +8,7 @@ Free for use, free for improve English skills. If you’d like to contribute, fo
 To read the documentation: https://freeenglishnotes.readthedocs.io
 
 Please be careful!
--------------
+------------------
 
 - There may be grammar mistake.
 - Pronunciation information here may be incorrect.
