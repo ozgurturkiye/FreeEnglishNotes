@@ -8,7 +8,9 @@ A) verbs + to ...(I want to do)
 | verbs + to ...              |
 +=============================+
 | want plan decide decide try |
+|                             |
 | hope expect offer forget    |
+|                             |
 | need promise refuse learn   |
 +-----------------------------+
 
