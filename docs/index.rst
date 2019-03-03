@@ -8,8 +8,8 @@ Let's Begin!
    :glob:
    :caption: Table of Content
 
-   intro
-   getstarted
+   conditions
+   to_and_ing
    syntax
    variables
    numbers
