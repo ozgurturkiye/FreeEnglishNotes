@@ -8,7 +8,7 @@ Let's Begin!
    :glob:
    :caption: Table of Content
 
-   conditions
+   conditionals
    to_and_ing
 
 
