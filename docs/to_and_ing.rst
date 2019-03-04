@@ -36,8 +36,8 @@ C verbs + -ing or to ...
 
 +--------+------+-------+----------+
 | like   | love | start | continue |
-+--------+------+-----+------------+
-| prefer | hate | begin |          |
++--------+------+-------+----------+
+| prefer | hate | begin            |
 +--------+------+-------+----------+
 
 * Do you **like** gett**ing** up early? *or* Do you **like to get** up earyl?
