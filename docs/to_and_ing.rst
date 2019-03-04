@@ -1,5 +1,5 @@
-to ...(I want to do) and -ing (I enjoy doing)
-=============================================
+verb + infinitive or verb + -ing?
+=================================
 
 A) verbs + to ...(I want to do)
 ------------------------------
@@ -12,9 +12,9 @@ A) verbs + to ...(I want to do)
 | need | promise | refuse | learn  |
 +------+---------+--------+--------+
 
-* What do you **want to do** this evening?
-* It's not very late. We **don't need to go** home yet.
-* Bilge **has decided to sell** her car.
+* What do you **want to do** this night?
+* Today is Sunday. We **don't need to go** to shcool.
+* Bilge **has decided to sell** his bcycle.
 * You **forgot to switch** off the light when you went out.
 
 B verbs + -ing (I enjoy doing)
@@ -26,7 +26,7 @@ B verbs + -ing (I enjoy doing)
 | mind  | finish |         |
 +-------+--------+---------+
 
-* I **enjoy** danc**ing**.
+* We **enjoy** danc**ing**.
 * I don't **mind** gett**ing** up early.
 * Has it **stopped** rain**ing**?
 * Arif **suggested** go**ing** to the cinema.
